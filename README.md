@@ -62,4 +62,9 @@ Tool Bat Networking
 
 
 📍 Toda la información y/o comandos que se ejecuten se guardaran en un bloc de notas en el directorio raiz como lo ejecute. 📍
-📍 Por ej si se ejecuta desde Administrador todo los registros quedaran en ######Windows/System32
+
+📍 Por ej si se ejecuta desde Administrador todo los registros quedaran en Windows/System32 📍
+
+Todos los derechos reservado de esta herramienta por JKDev. 
+
+Herramienta para uso libre y total edición de ella.
